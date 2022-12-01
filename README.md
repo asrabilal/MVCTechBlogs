@@ -61,5 +61,9 @@ It is a CMS-style blog site similar to a Wordpress site, where developers can pu
   ## Additional Info:
   - Github: [asrabilal](https://github.com/asrabilal)
   - Email: asra596@gmail.com 
+  
+   ## URL of the functional, deployed application: https://git.heroku.com/nameless-woodland-61929.git 
+       
+   ## URL of the GitHub repository: https://github.com/asrabilal/MVCTechBlogs.git
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
